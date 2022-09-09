@@ -19,6 +19,8 @@ body {
 }
 
 .Mission {
+    display: inline-flex;
+    align-items: center;
     background: url(https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg?_gl=1*1rvulzj*_ga*MjU3NTYwMTkyLjE2NDkxNDQyNjk.*_ga_3LRZM6TM9L*MTY2MjYyNzg3OC45Ny4xLjE2NjI2Mjg1MzcuMjAuMC4w);
     background-repeat: no-repeat;
     text-align: center;
